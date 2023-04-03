@@ -12,3 +12,9 @@ This file will perform following  actions
 Excecute second file
 
 Team_Trinity_Hackathon_2023_Index.ipynb
+
+This file will perform following  actions
+
+1) Text Summerization
+2) Key word extraction
+3) MCQ generation.
